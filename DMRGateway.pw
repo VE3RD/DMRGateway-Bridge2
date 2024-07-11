@@ -1,0 +1,49 @@
+[DMR Network 1]
+PWD=
+Enabled=0
+Name=
+Address=
+ID=
+Options=
+Callsign=
+TG=
+
+[DMR Network 2]
+PWD=
+Enabled=0
+Name=
+Address=
+ID=
+Options=
+Callsign=
+TG=
+
+
+[DMR Network 4]
+PWD=
+Enabled=1
+Name=
+Address=
+ID=
+Options=
+Callsign=
+TG=
+
+[DMR Network 5]
+PWD=
+Enabled=1
+ID=
+Name=
+Address=
+Options=
+Callsign=
+TG=
+
+
+
+
+
+
+
+
+
